@@ -1,24 +1,27 @@
 # Neural-Network-DL-ICP-8
 Student ID: 700752115, Student Name: Rumana Shaik
 
-Video Link: https://drive.google.com/file/d/19krKkTocRwi-3u07zw_qu2zdrhDSPCQO/view?usp=sharing
+Video Link: 
 
-The following steps are followed for ICP-6:
+The following steps are followed for ICP-8:
 
-In Jupiter notepad written the code for the following and mentioned the comments for the code and uploaded the "ICP-6.ipynb" to repo:
+In Jupiter notepad written the code for the following and mentioned the comments for the code and uploaded the "ICP-8.ipynb" to repo:
  - First installed the packages Keras and Tensorflow.
- - Use Case Description: Predicting the diabetes disease
- - Programming elements: Keras Basics
+ - Use Case Description: LeNet5, AlexNet, Vgg16, Vgg19 1. Training the model 2. Evaluating the model 
+ - Programming elements: 1. About CNN 2. Hyperparameters of CNN 3. Image classification with CNN
  - In the programming:
- - Used the use case in the class and added more Dense layers to the existing code and check how the accuracy changes.
- - Changed the data source to Breast Cancer dataset * available in the source code folder and make required changes. Reported the accuracy of the model
- - Normalized the data before feeding the data to the model
- - Used Image Classification on the hand written digits data set (mnist)
- - Plotted the loss and accuracy for both training data and validation data using the history object in the source code.
- - Plotted one of the images in the test data, and then do inferencing to check what is the prediction of the model on that single image.
- - We had used 2 hidden layers and Relu activation and changed the hidden layers.
- - Executed the same code without scaling the images and checked the performance.
+ - Tune hyperparameter and make necessary addition to the baseline model to improve validation accuracy and reduce validation loss.  
+ - Provide logical description of which steps lead to improved response and what was its impact on architecture behavior.
+ - Created at least two more visualizations using matplotlib (Other than provided in the source file) 
+ - Used dataset of iris and implemented baseline models provided
+ - Apply modified architecture to your own selected dataset and train it. 
+ - Evaluate your model on testing set.
+ - Save the improved model and use it for prediction on testing data. 
+ - Provide plot of confusion matric
+ - Provide Training and testing Loss and accuracy plots in one plot using subplot command and history object.
+ - Provide at least two more visualizations reflecting your solution.
+ - Provide logical description of which steps lead to improved response for new dataset when compared with baseline model and enhance architecture and what was its impact on architecture behavior. 
  
-In the "Neural Networks & DL ICP-6 Screenshots & Github link.pdf" file consists of screenshots of the resultant compiled code and Github link to the repository.
+In the "Neural Networks & DL ICP-8 Screenshots & Github link.pdf" file consists of screenshots of the resultant compiled code and Github link to the repository.
 
 In the Video Link consists of Video regarding the technical explanation of the code.
