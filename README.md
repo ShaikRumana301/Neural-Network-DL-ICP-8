@@ -22,6 +22,6 @@ In Jupiter notepad written the code for the following and mentioned the comments
  - Provide at least two more visualizations reflecting your solution.
  - Provide logical description of which steps lead to improved response for new dataset when compared with baseline model and enhance architecture and what was its impact on architecture behavior. 
  
-In the "Neural Networks & DL ICP-8 Screenshots & Github link.pdf" file consists of screenshots of the resultant compiled code and Github link to the repository.
+In the "Neural Networks & DL Assignment_7 Screenshots & Github link.pdf" file consists of screenshots of the resultant compiled code and Github link to the repository.
 
 In the Video Link consists of Video regarding the technical explanation of the code.
