@@ -1,7 +1,7 @@
 # Neural-Network-DL-ICP-8
 Student ID: 700752115, Student Name: Rumana Shaik
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1ZIsvRYzanw2s58oWWgyzmf2GKSeT81Zg/view?usp=sharing
 
 The following steps are followed for ICP-8:
 
